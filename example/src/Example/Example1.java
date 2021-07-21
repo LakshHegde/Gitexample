@@ -6,7 +6,7 @@ public class Example1 {
 	public void data() {
 		System.out.println("data_old");
 		System.out.println("data_new");
-		
+		System.out.println("data_new_import");
 	}
 	
 	public void data1() {
